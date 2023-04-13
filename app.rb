@@ -1,6 +1,7 @@
 def stock_picker(stock_prices)
     sorted_prices = stock_prices.sort
-    
+    lowest_price = sorted_price[0]
+    highest_price = sorted_price[-1]
 end
 
 # STEPS:
